@@ -34,7 +34,7 @@
   <img src="https://github.com/OrestOrk/LoversRun3D/blob/0959c66ae2abb1508aaefb48c467a0c2d6f27d3f/Screenshots/Screenshot_273.png" height="450px"/>
 </p>
 <p align="center">
-<a href="https://github.com/OrestOrk/LoversRun3D"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrestOrk&repo=Name&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
+<a href="https://github.com/OrestOrk/LoversRun3D"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrestOrk&repo=LoversRun3D&theme=dark&title_color=0075a8&icon_color=0075a8&text_color=ffffff&hide_border=true"/></a>
 </p>
 
 ## Stats 📊
