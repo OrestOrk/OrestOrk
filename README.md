@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <a href="https://orkoorest25.wixsite.com/resume" target="_blank">
-<img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white">
+<img src="https://img.shields.io/badge/About Me-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white">
 </a>
 
 ## My stack 👨‍💻
